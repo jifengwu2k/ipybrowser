@@ -1,0 +1,4 @@
+lxml
+PyQt6
+PyQt6-WebEngine
+qtconsole
